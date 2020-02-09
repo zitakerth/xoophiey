@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohnebohrae.code4fang.cn/sitemap.xml
